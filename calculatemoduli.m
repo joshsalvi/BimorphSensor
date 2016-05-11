@@ -9,7 +9,7 @@ analyzeyn = 1;
 % Bimorph properties
 KD = 2.48e-3; % 1/(V?m)
 KF = 2.62e-3; % N/V
-CB = 1.551-3; % m/N
+CB = 1.551e-3; % m/N
 KB = 1/CB;    % N/m
 FB0 = 7.74e-4;% N/V
 DU0 = 1.20032e-6;% m/V
